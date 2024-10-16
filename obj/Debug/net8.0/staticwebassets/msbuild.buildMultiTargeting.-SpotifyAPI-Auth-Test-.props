@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\-SpotifyAPI-Auth-Test-.props" />
+</Project>
